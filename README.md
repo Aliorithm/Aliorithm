@@ -2,8 +2,8 @@
 
 # 💫 About Me
 
-Hey there! I'm a full-stack developer with a focus on **Next.js**, **TypeScript**, and **clean, scalable code**.  
-Currently building [ClickCode](#) — a collaborative dev platform (DM me if you're curious 👇).  
+Hey there! I'm a front-end developer focused on **Next.js** and **TypeScript**.   
+Building [ClickCode](https://clickcode.ir) — a collaborative dev platform.  
 Always exploring new tech like **Three.js**, and open to meaningful collaborations.
 
 📫 Reach me on Telegram: [@Aligorithm](https://t.me/Aligorithm)  
