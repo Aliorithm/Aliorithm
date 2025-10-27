@@ -6,7 +6,7 @@ Hey there! I'm a front-end developer focused on **Next.js** and **TypeScript**.
 Building [ClickCode](https://clickcode.ir) — a collaborative dev platform.  
 Always exploring new tech like **Three.js**, and open to meaningful collaborations.
 
-📫 Reach me on Telegram: [@Aligorithm](https://t.me/Aligorithm)  
+📫 Reach me on Telegram: [@Aligorithm](https://t.me/Aliorithm)  
 🔍 Looking for creative minds to join **ClickCode**
 
 ## 🌐 Socials:
